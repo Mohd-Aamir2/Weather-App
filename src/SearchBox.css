@@ -1,0 +1,17 @@
+
+
+.SearchBox {
+    
+    margin-bottom: 25px;
+    color: blue;
+    text-align: center;
+   
+    
+}
+
+.feild{
+
+color: black;
+    display: flex;
+    justify-content: center;
+}
